@@ -1,7 +1,7 @@
 {
   "name": "gtpscontrollerwabot",
   "version": "1.0.0",
-  "description": "You can manage your gtps with this Bot.",
+  "description": "Beta Status ZeroTopia.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
